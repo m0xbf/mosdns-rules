@@ -1,0 +1,12 @@
+full:opt.cn2qq.com
+domain:nixos.org
+domain:git.sr.ht
+domain:github.com
+domain:raw.githubusercontent.com
+domain:godotengine.org
+domain:nim-lang.org
+domain:ziglang.org
+domain:microsoft.com
+domain:live.com
+domain:coze.com
+domain:wezfurlong.org

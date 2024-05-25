@@ -9,8 +9,4 @@ domain:ziglang.org
 domain:microsoft.com
 domain:live.com
 domain:coze.com
-domain:akamai.net
-domain:akamaiedge.net
-domain:edgekey.net
-domain:edgesuite.net
 domain:wezfurlong.org

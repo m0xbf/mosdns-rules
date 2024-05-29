@@ -1,5 +1,6 @@
 full:opt.cn2qq.com
 domain:nixos.org
+domain:ubuntu.com
 domain:git.sr.ht
 domain:github.com
 domain:raw.githubusercontent.com

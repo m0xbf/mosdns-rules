@@ -11,4 +11,5 @@ domain:ziglang.org
 domain:microsoft.com
 domain:live.com
 domain:coze.com
+domain:jetbrains.com
 domain:wezfurlong.org

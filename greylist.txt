@@ -1,10 +1,13 @@
 full:opt.cn2qq.com
 domain:nixos.org
+domain:debian.org
+domain:sparkylinux.org
 domain:ubuntu.com
 domain:kubuntu.org
 domain:git.sr.ht
 domain:github.com
 domain:raw.githubusercontent.com
+domain:sourceforge.net
 domain:godotengine.org
 domain:nim-lang.org
 domain:ziglang.org

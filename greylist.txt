@@ -1,5 +1,7 @@
 full:opt.cn2qq.com
 domain:nixos.org
+domain:voidlinux.org
+domain:bedrocklinux.org
 domain:debian.org
 domain:sparkylinux.org
 domain:ubuntu.com

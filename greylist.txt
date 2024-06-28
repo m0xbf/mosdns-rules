@@ -6,6 +6,7 @@ domain:debian.org
 domain:sparkylinux.org
 domain:ubuntu.com
 domain:kubuntu.org
+domain:gettoby.com
 domain:git.sr.ht
 domain:github.com
 domain:raw.githubusercontent.com
